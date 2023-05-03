@@ -1,7 +1,7 @@
 # Python-Image-Processing
 Graduate school activities in image processing using Python. Showcasing techniques, algorithms, and practical implementations I've learned throughout my academic journey. A resource for students and professionals exploring image processing.
 
-All Images/Pictures Used are on this [Link] (https://drive.google.com/drive/folders/1KqV4017YyFgCPmFN-95L6JZ8tTg8JJHU)
+All Images/Pictures Used are on this [Link](https://drive.google.com/drive/folders/1KqV4017YyFgCPmFN-95L6JZ8tTg8JJHU)
 
 | IPYNB File               | Some Libraries Used                                          | Some Functions Used                                                                                                                                                                 |
 |--------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
