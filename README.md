@@ -1,5 +1,5 @@
 # Python-Image-Processing
-Description: Graduate school activities in image processing using Python. Showcasing techniques, algorithms, and practical implementations I've learned throughout my academic journey. A resource for students and professionals exploring image processing.
+ Graduate school activities in image processing using Python. Showcasing techniques, algorithms, and practical implementations I've learned throughout my academic journey. A resource for students and professionals exploring image processing.
 
 All Images/Pictures Used are on this [link](https://drive.google.com/drive/folders/1fqcRIBY6PvmOlpGAcigvVUlLWncXmQaS?usp=sharing)
 
